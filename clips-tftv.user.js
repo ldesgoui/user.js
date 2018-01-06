@@ -1,6 +1,7 @@
 // ==UserScript==
 // @name Embed clips on teamfortress.tv
 // @copyright 2017, ldesgoui
+// @author ldesgoui
 // @homepageURL https://github.com/ldesgoui/user.js
 // @supportURL https://github.com/ldesgoui/user.js/issues
 // @license MIT
