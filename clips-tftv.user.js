@@ -1,12 +1,12 @@
 // ==UserScript==
 // @name Embed clips on teamfortress.tv
-// @copyright 2017, ldesgoui
-// @author ldesgoui
-// @homepageURL https://github.com/ldesgoui/user.js
-// @supportURL https://github.com/ldesgoui/user.js/issues
-// @license MIT
 // @version 1.0.0
 // @include http://*.teamfortress.tv/*
+// @author ldesgoui
+// @license MIT
+// @copyright 2017, ldesgoui
+// @homepageURL https://github.com/ldesgoui/user.js
+// @supportURL https://github.com/ldesgoui/user.js/issues
 // ==/UserScript==
 
 (function() {
