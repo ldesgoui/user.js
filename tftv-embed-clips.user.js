@@ -13,7 +13,7 @@
 (function() {
     'use strict';
     var a;
-    while ((a = document.querySelector("[href^='https://clips.twitch.tv/']"))) {
+    while ((a = document.querySelector(":not(q) > [href^='https://clips.twitch.tv/']"))) {
         var iframe = document.createElement("iframe");
         iframe.src = a.href.replace(".tv/", ".tv/embed?autoplay=false&clip=");
         iframe.allowFullscreen = true;
