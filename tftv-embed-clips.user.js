@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name tftv-embed-clips
 // @description Embed clips on teamfortress.tv
-// @version 1.0.0
+// @version 1.1.0
 // @include http://*.teamfortress.tv/*
 // @author ldesgoui
 // @license MIT
