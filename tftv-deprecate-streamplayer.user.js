@@ -13,7 +13,7 @@
 (function() {
     'use strict';
     if (location.pathname.startsWith("/stream/")) {
-        location.href = "https://twitch.tv/" + a.pathname.substr(8);
+        location.href = "https://twitch.tv/" + location.pathname.substr(8);
     }
     var a;
     while ((a = document.querySelector("[href^='/stream/']"))) {
