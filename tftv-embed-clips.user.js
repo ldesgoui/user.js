@@ -9,7 +9,6 @@
 // @homepageURL https://github.com/ldesgoui/user.js
 // @supportURL https://github.com/ldesgoui/user.js/issues
 // ==/UserScript==
-
 (function() {
     'use strict';
     var a;
